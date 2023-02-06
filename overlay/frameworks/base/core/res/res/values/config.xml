@@ -405,9 +405,6 @@
          1: Right side -->
     <integer name="config_alertSliderLocation">1</integer>
 
-    <!-- Enable Screen Off FOD Toggle -->
-    <bool name="config_supportsScreenOffUdfps">true</bool>
-
     <!-- Enable face auth only when swiping security view -->
     <bool name="config_faceAuthOnlyOnSecurityView">true</bool>
 
